@@ -32,7 +32,6 @@ The dataset includes the following CSV files:
 
 You can import these files into Maptek Vulcan using the Drillhole Database tools:
 
-```text
 Vulcan > DHDB > Create Database from ASCII
 Make sure to configure column mappings correctly.
 
